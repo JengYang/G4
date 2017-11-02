@@ -17,6 +17,8 @@ public class G4 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("aaaaabaaaaaaa");
+        System.out.println("aaaaabaaaaaaa");
+        System.out.println("aaaaabaaaaaaa");
     }
     
 }
