@@ -19,6 +19,7 @@ public class G4 {
         System.out.println("aaaaabaaaaaaa");
         System.out.println("aaaaabaaaaaaa");
         System.out.println("aaaaabaaaaaaa");
+        System.out.println("bbbbbb");
     }
     
 }
